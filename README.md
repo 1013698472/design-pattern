@@ -1,4 +1,5 @@
 # design-pattern
+<<<<<<< HEAD
 设计模式**java**实现
 
 本项目参考至《Java设计模式》
@@ -59,3 +60,14 @@
     
     visitor-pattern             (访问者模式)
     
+=======
+
+设计模式java实现
+参考至《Java设计模式》
+
+计划周更,实现23种设计模式
+
+#目录
+
+--simple-factore-pattern(简单工厂模式)
+>>>>>>> 5ad41474f81186ef73df097e7284300f921af7f5
